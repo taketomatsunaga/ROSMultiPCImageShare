@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="uvc_camera" name="uvc_camera_node" type="uvc_camera_node"/>
+</launch>
