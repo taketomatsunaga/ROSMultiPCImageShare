@@ -120,6 +120,7 @@ Please install RQT.
 ### PC1
 
 ```
+source /opt/ros/melodic/setup.bash
 unset ROS_MASTER_URI
 unset ROS_HOSTNAME
 unset ROS_IP
