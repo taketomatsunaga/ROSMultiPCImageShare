@@ -23,7 +23,7 @@ You will need followins.
 ## SORACOM
 
 Go to VPG settings and please set up static ips for Sim1 and Sim2.
-![SORACOM Static IPs](Soracom_gate_staticip.png)
+![SORACOM Static IPs](Contents/Soracom_gate_staticip.png)
 ![SORACOM Routers](Contents/soracom_routers.png)
 
 ## Routers
@@ -32,13 +32,13 @@ Go to VPG settings and please set up static ips for Sim1 and Sim2.
 
 Access from wan needs to be accepted.
 
-![SORACOM Firewall WAN](Router_Firewall.png)
+![SORACOM Firewall WAN](Contents/Router_Firewall.png)
 
 ### Port Forwarding
 
 All the routers need to enable port forwarding for the port 1025-65535.
 
-![SORACOM Port Forwarding](Router_PortForwarding.png)
+![SORACOM Port Forwarding](Contents/Router_PortForwarding.png)
 
 ## PCs
 
@@ -148,4 +148,4 @@ rqt
 
 ## Reference
 
-![Example of Image Sharing](ImageSharingSample.png)
+![Example of Image Sharing](Contents/ImageSharingSample.png)
