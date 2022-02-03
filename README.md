@@ -6,6 +6,15 @@ This is an example of sharing images with ros.
 
 - ROS: Melodic
 
+```
+VPG(Gate)
+    |- Router1(ex.10.209.32.142 port 1025-65535 forwarded to PC2 ) 
+            |- PC1(Ros Master): publish webcam images.
+            
+    |- Router2(ex.10.198.97.225 port 1025-65535 forwarded to PC2 ) 
+            |- PC2(Ros Slave): visualize the published webcam images.
+```
+
 # Prerequisite
 
 You will need followins.
